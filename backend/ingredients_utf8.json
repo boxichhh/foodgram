@@ -1,0 +1,1 @@
+[{"model": "recipes.ingredient", "pk": 1, "fields": {"name": "Лук красный", "measurement_unit": "100 г"}}, {"model": "recipes.ingredient", "pk": 2, "fields": {"name": "Томаты", "measurement_unit": "70 г"}}]
